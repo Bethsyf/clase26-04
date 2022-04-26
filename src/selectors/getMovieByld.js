@@ -1,4 +1,5 @@
-import { movies } from '../data/movies';
+import { movies } from "../data/movies";
+
 
 export const getMovieById = ( id ) => {
 
